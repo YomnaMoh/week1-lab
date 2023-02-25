@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Carinapro' ;
+    src: url(fonts/Carinapro.ttf);
+}
+
+  #my-box {
+    background: rgb(47,47,20);
+    background: linear-gradient(90deg, rgba(47,47,20,1) 0%, rgba(69,88,59,1) 35%, rgba(211,213,165,1) 100%);
+  }
+
+
+h1 {
+    font-family: 'Carinapro';
+  }
+
+ h1 {
+    font-family: 'Carinapro';
+  }
+
+  h1 {
+     font-size: 60pt; font-weight: 100; letter-spacing: -10px;
+    }
+
+body {
+    background-color: black
+   }
+
+   body, h1, h2, h3, h4, h5, h6 {
+    color: antiquewhite
+  }
+
+  body{
+    text-align: left;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  p{
+    font-family: 'Bodoni 72 Oldstyle'; font-weight: 500; font-size: 17px;
+}
+
+h8{
+    font-family: 'Bodoni 72 Oldstyle'; font-weight: 800; font-size: 21px;
+}
+
